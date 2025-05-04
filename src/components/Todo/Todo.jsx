@@ -1,7 +1,7 @@
 import Text from '../Text/Text';
 import GridItem from '../GridItem/GridItem';
 import style from './Todo.module.css';
-import { RiDeleteBinLine, RiEdit2Line } from 'react-icons/Ri';
+import { RiDeleteBinLine, RiEdit2Line } from 'react-icons/ri';
 import { useDispatch } from 'react-redux';
 import { deleteTodo, setCurrentTodo } from '../../redux/todosSlice';
 

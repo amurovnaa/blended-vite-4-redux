@@ -1,4 +1,4 @@
-import { RiSaveLine } from 'react-icons/Ri';
+import { RiSaveLine } from 'react-icons/ri';
 import { MdOutlineCancel } from 'react-icons/md';
 
 import style from './EditForm.module.css';
